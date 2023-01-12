@@ -1,1 +1,36 @@
+# s3d
+.vs/
+Intermediate/
+example/
 
+# unity
+[Ll]ibrary/
+[Ll]og/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+.vs/
+.vscode/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+sysinfo.txt
+*.apk
+*.unitypackage
+Assets/StreamingAssets/crashlytics-build.properties
