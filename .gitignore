@@ -34,3 +34,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Assets/StreamingAssets/crashlytics-build.properties
+
+.vscode/
+__pycache__
+.env
